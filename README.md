@@ -10,10 +10,8 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
   - [📚 Table of Contents](#-table-of-contents)
   - [🔐 Vault](#-vault)
   - [🎓 Certification Labs](#-certification-labs)
-  - [💻 Linux \& 🌐 Networking Labs](#-linux---networking-labs)
-  - [☁️ AWS Labs](#️-aws-labs)
-  - [☸️ Kubernetes Labs](#️-kubernetes-labs)
   - [🔫 Bash Labs](#-bash-labs)
+  - [Terraform Labs](#terraform-labs)
   - [🐳 Docker Labs](#-docker-labs)
   - [🚰️ Platform Labs](#️-platform-labs)
   - [🚀 CICD Labs](#-cicd-labs)
@@ -22,39 +20,28 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 ## 🔐 Vault
 
-1. **[Vault](https://github.com/YacqubAdan/playground-vault)** - General playground.
-2. **[General Notes](https://github.com/YacqubAdan/notes)** - All my study notes from Notion.
+1. **[General Notes](https://github.com/YacqubAdan/notes)** - All my study notes from Notion.
+2. **[Vault](https://github.com/YacqubAdan/playground-vault)** - General playground.
 
 ---
 
 ## 🎓 Certification Labs
 
-1. **[Certified Kubernetes Administrator CKA](https://github.com/YacqubAdan/cka-mastery)** - A set of curated exercises to help prepare you for the Certified Kubernetes Administrator Exam by the Cloud Native Computing Foundation.
-
+1. **[AWS Certified Cloud Practitioner CCP](https://github.com/YacqubAdan/notes/tree/main/CCP)** - A collection of notes to help prepare for CPP Exam
+2. **[Certified Kubernetes Administrator CKA](https://github.com/YacqubAdan/cka-mastery)** - A collection of notes to help prepare for CKA Exam
 ---
 
-## 💻 Linux & 🌐 Networking Labs
-
-*Coming soon...*
-
----
-
-## ☁️ AWS Labs
-
-*Coming soon...*
-
----
-
-## ☸️ Kubernetes Labs
-
-*Coming soon...*
-
----
 
 ## 🔫 Bash Labs
 
-1. **[Bash Learning](https://github.com/YacqubAdan/devops-learning/tree/main/bash/labs)** 
-2. 
+1. **[Bash Learning](https://github.com/YacqubAdan/devops-learning/tree/main/bash/labs)** - Learning journey in bash
+2. **[Bash Playground](https://github.com/YacqubAdan/bash-labs)** - A set of useful automations scripts
+---
+
+## Terraform Labs
+
+1. **[wordpress-tf-aws](https://github.com/YacqubAdan/wordpress-tf-aws)** - A fully modularised terraform solution that supports environment configurations whether that would be staging or production.
+
 ---
 
 ## 🐳 Docker Labs
