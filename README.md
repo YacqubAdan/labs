@@ -9,12 +9,14 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 - [🔬 Labs Playground](#-labs-playground)
   - [📚 Table of Contents](#-table-of-contents)
   - [🔐 Vault](#-vault)
+  - [🎓 Projects](#-projects)
   - [🎓 Certification Labs](#-certification-labs)
+  - [Websites worked on](#websites-worked-on)
   - [🔫 Bash Labs](#-bash-labs)
   - [Terraform Labs](#terraform-labs)
   - [🐳 Docker Labs](#-docker-labs)
+  - [CI/CD Labs](#cicd-labs)
   - [🚰️ Platform Labs](#️-platform-labs)
-  - [🚀 CICD Labs](#-cicd-labs)
 
 ---
 
@@ -25,10 +27,29 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 ---
 
+
+## 🎓 Projects
+
+1. **[Threat Composer App](https://github.com/YacqubAdan/ecs-threat-composer)** - A production grade Threat Composer application using AWS, Docker, Terraform and Github Actions.
+2. **[qr-code-devops](https://github.com/YacqubAdan/qr-code-devops)** - NextJs frontend FastAPI for managing QR codes.
+3. **[EKS-Project](https://github.com/YacqubAdan/cka-mastery)** - In the works...
+
+---
+
 ## 🎓 Certification Labs
 
-1. **[AWS Certified Cloud Practitioner CCP](https://github.com/YacqubAdan/notes/tree/main/CCP)** - A collection of notes to help prepare for CPP Exam
-2. **[Certified Kubernetes Administrator CKA](https://github.com/YacqubAdan/cka-mastery)** - A collection of notes to help prepare for CKA Exam
+1. **[Certified Kubernetes Administrator CKA](https://github.com/YacqubAdan/cka-mastery)** - Currently studying for...
+2. **[AWS Certified Cloud Practitioner CCP](https://github.com/YacqubAdan/notes/tree/main/CCP)** - A collection of notes to help prepare for CPP Exam
+
+---
+
+
+## Websites worked on
+
+[Beaumont Leys Mosque](https://blmuslims.co.uk/) - Fully secure non profit organisational website for a mosque.
+[Movie App](https://github.com/YacqubAdan/movie-app) - A simple movie app using React & utilising a MovieDatabase API.
+[Golden Shoe](https://github.com/YacqubAdan/golden-shoe-web) - An e-commerce website built with React, Redux and NodeJS
+
 ---
 
 
@@ -36,6 +57,7 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 1. **[Bash Learning](https://github.com/YacqubAdan/devops-learning/tree/main/bash/labs)** - Learning journey in bash
 2. **[Bash Playground](https://github.com/YacqubAdan/bash-labs)** - A set of useful automations scripts
+   
 ---
 
 ## Terraform Labs
@@ -50,15 +72,17 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 ---
 
+## CI/CD Labs
+
+1. **[Github Actions](https://github.com/YacqubAdan/devops-ci-cd)** - Basic Docker container for a Python FastAPI project.
+
+---
+
 ## 🚰️ Platform Labs
 
 1. **[Localstack Demo](https://github.com/YacqubAdan/localstack-demo)** - Localstack demo.
 
 ---
 
-## 🚀 CICD Labs
 
-1. **[qr-code-devops](https://github.com/YacqubAdan/qr-code-devops)** - A sample for the DevOps Capstone Project. Featuring NextJS frontend & fast-api backend for generating qr codes for websites & storing them in AWS S3. Implements Github Actions workflow for automating building & publishing to the Docker Hub.
-
----
 
