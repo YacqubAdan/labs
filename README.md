@@ -74,7 +74,7 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 ## CI/CD Labs
 
-1. **[Github Actions](https://github.com/YacqubAdan/devops-ci-cd)** - Basic Docker container for a Python FastAPI project.
+1. **[Github Actions](https://github.com/YacqubAdan/devops-ci-cd)** - 
 
 ---
 
