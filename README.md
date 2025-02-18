@@ -46,9 +46,9 @@ Step into my Lab Playground, a space where I experiment, build, and explore the 
 
 ## Websites worked on
 
-[Beaumont Leys Mosque](https://blmuslims.co.uk/) - Fully secure non profit organisational website for a mosque.
-[Movie App](https://github.com/YacqubAdan/movie-app) - A simple movie app using React & utilising a MovieDatabase API.
-[Golden Shoe](https://github.com/YacqubAdan/golden-shoe-web) - An e-commerce website built with React, Redux and NodeJS
+1. [Beaumont Leys Mosque](https://blmuslims.co.uk/) - Fully secure non profit organisational website for a mosque.
+2. [Movie App](https://github.com/YacqubAdan/movie-app) - A simple movie app using React & utilising a MovieDatabase API.
+3. [Golden Shoe](https://github.com/YacqubAdan/golden-shoe-web) - An e-commerce website built with React, Redux and NodeJS
 
 ---
 
